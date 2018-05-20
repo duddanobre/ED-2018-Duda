@@ -1,1 +1,0 @@
-Esta atividade como sempre fiz com meus colegas e não foi tão complicada porém não conseguimos fazer o ctrl z e ctrl r, pois acabamos nos empenhando no wtisc e ficamos meio atrasados e sobrecarregados
