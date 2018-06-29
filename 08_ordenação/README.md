@@ -1,0 +1,3 @@
+# Ordenação
+
+Upei recentemente esta atividade. Já havia realizado ela, mas por conta deste caos que foi o fim desse semestre esqueci de enviar ela, realizei a atividade de ordenação em sala de aula com o Junior. Foi uma atividade bem prazerosa e que não senti tanta dificuldade assim de fazer. A forma como podemos visualizar o que acontece na hora das ordenações torna a atividade mais dinâmica e nos faz ficar atentos a possíveis erros. Foi umas das atividades que mais gostei de fazer. Antes de upar ela no git dei uma olhada na vídeo aula pra ver se meu código estava certo e relembrei tudo que vimos, peço desculpas pelo atraso. 
